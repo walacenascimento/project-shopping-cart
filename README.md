@@ -10,7 +10,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
 
-# Projeto Zoo-Functions
+# Projeto Shopping-Cart
   `Olá, seja bem vindo(a) ao projeto Nome do Projeto!`
 
 ### DESCRIÇÃO:
