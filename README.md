@@ -65,11 +65,11 @@ npx cypress open
 2. `HTML`
 3. `CSS`
 4. `ESLint e Stylelint`
-  * O ESLint e Stylelint, são usados para garantir a qualidade do código e a sua configuração foi feita pela <a href="https://betrybe.com">**TRYBE**</a>
+    * O ESLint e Stylelint, são usados para garantir a qualidade do código e a sua configuração foi feita pela <a href="https://betrybe.com">**TRYBE**</a>
 
 2. `Cypress`
-  * O Cypress é uma ferramenta de teste de front-end desenvolvida para a web.
-  *  A configuração do `Cypress` foi feita pela <a href="https://betrybe.com">**TRYBE**</a> para avaliar o desenvolvimento dos requisitos.
+    * O Cypress é uma ferramenta de teste de front-end desenvolvida para a web.
+    *  A configuração do `Cypress` foi feita pela <a href="https://betrybe.com">**TRYBE**</a> para avaliar o desenvolvimento dos requisitos.
 
 ### STATUS:
 * Finalizado `APROVADO`
